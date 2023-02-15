@@ -11,7 +11,7 @@ export class RegisterComponent {
   passwordConfirm: string;
 
   constructor() {
-    this.email = 'Email';
+    this.email = '';
     this.password = '';
     this.passwordConfirm = '';
   }
